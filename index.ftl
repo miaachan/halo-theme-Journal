@@ -16,7 +16,7 @@
                             ${post.title!}
                         </div>
                         <div class="post-item-summary">
-                            ${post.summary!}...
+                            ${post.summary!}
                         </div>
                         <div class="post-item-meta">
                             ${post.createTime?string('yyyy-MM-dd')}
